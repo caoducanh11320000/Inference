@@ -1,0 +1,3 @@
+/home/peter/Desktop/Example/30_11_2023/trt-inference/build/CMakeFiles/main.dir
+/home/peter/Desktop/Example/30_11_2023/trt-inference/build/CMakeFiles/edit_cache.dir
+/home/peter/Desktop/Example/30_11_2023/trt-inference/build/CMakeFiles/rebuild_cache.dir
